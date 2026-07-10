@@ -1,6 +1,6 @@
 {
-    "name": "RADIOS UNIDAS - PERU",
-    "short_name": "[Eco Radio] - Se Siente...!",
+    "name": "Eco Radio",
+    "short_name": " Se Siente...!",
     "start_url": "./?mode=pwa",
     "display": "standalone",
     "background_color": "#0000FF",
