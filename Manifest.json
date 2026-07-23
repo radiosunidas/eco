@@ -1,20 +1,20 @@
 {
-  "name": "Eco Radio - El Eco del Tiempo",
-  "short_name": "Eco Radio",
-  "description": "Sintoniza la nostalgia. MÃºsica clÃ¡sica y atemporal en vivo.",
-  "start_url": "/",
+  "name": "Eco Radio 60 Se Siente",
+  "short_name": "Eco Radio 60",
+  "description": "Clásicos 80-90, Rock, Techno y Variedad. Búscanos en Google como Eco Radio Se Siente.",
+  "start_url": "/eco/",
   "display": "standalone",
-  "background_color": "#0a0a1a",
-  "theme_color": "#ff0066",
-  "orientation": "portrait",
+  "background_color": "#020205",
+  "theme_color": "#ffcc66",
+  "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/logo.png",
+      "src": "https://radiosunidas.github.io/eco/icono-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "https://radiosunidas.github.io/eco/icono-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
